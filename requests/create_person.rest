@@ -2,6 +2,6 @@ POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "name":"Daniel Sanchez amezcua",
-    "number": 434
+    "name":"Daniel Sanchez amezcua maria",
+    "number": 434100
 }
